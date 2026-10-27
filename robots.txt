@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delaguardaagustin.github.io/isc-barr-tatoo/sitemap.xml
